@@ -1,0 +1,26 @@
+body{
+  color: red;
+  background: black;
+  text-align: right;
+  background-image: image("file:///C:/Users/Filip/Desktop/web/LRmT8yJPpoqGulM3_Js5IskqmxqPwgb196NFUtX08oY.webp");
+}
+.discord{
+  background: blue;
+  color: white;
+}
+.button{
+  text-align: right;
+  position: absolute;
+  right: auto;
+  top: 10px;
+}
+.bild-2{
+  width: 90px;
+}
+.bild-3{
+  width: 70px;
+  height: 20;
+}
+.tictactoe{
+  width: 90px;
+}
